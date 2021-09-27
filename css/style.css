@@ -40,3 +40,8 @@ h1  {
     margin-bottom: 2px;
     font-size: 12px;
 }
+
+.highlighted {
+    background-color: yellow;
+    color: black;
+}
