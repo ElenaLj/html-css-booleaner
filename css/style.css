@@ -1,9 +1,13 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .immagine-intestazione {
     background-image: url("../img/pattern.png");
     background-color: cornflowerblue;
 }
 
-img {
+#logo {
     width: 700px;
 }
 
@@ -14,13 +18,10 @@ h1  {
     padding-right: 50px;
 }
 
-p   {
-    margin-top: 2px;
-    margin-bottom: 2px;
-}
-
 .autore {
     color: darkgray;
+    margin-top: 2px;
+    margin-bottom: 2px;
 }
 
 #nome-autore {
@@ -29,5 +30,13 @@ p   {
 
 .data {
     color: darkgray;
+    font-size: 12px;
+    margin-top: 2px;
+    margin-bottom: 10px;
+}
+
+.didascalia {
+    margin-top: 2px;
+    margin-bottom: 2px;
     font-size: 12px;
 }
