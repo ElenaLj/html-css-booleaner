@@ -6,3 +6,28 @@
 img {
     width: 700px;
 }
+
+h1  {
+    font-size: 45px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-right: 50px;
+}
+
+p   {
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.autore {
+    color: darkgray;
+}
+
+#nome-autore {
+    color: rgb(97, 182, 235);
+}
+
+.data {
+    color: darkgray;
+    font-size: 12px;
+}
