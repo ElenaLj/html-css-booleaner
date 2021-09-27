@@ -45,3 +45,18 @@ h1  {
     background-color: yellow;
     color: black;
 }
+
+th {
+    background-color: rgb(47, 199, 236);
+    color: white;
+    text-align: left;
+}
+
+.colonna-tabella {
+    padding-right: 100px;
+}
+
+.riga-colorata  {
+    background-color: rgb(169, 217, 247);
+    color: black;
+}
